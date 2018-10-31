@@ -6,7 +6,8 @@
 package cz3005.intelligentagents;
 
 /**
- *
+ * This is a test.
+ * Don't mind me.
  * @author User
  */
 class Box {
